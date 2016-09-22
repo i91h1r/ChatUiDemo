@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@mipmap/ease_conversation_selected"
+        title="主页"
+        />
+    <tab
+        id="@+id/tab_chat"
+        icon="@mipmap/ease_conversation_selected"
+        title="聊天"
+        />
+    <tab
+        id="@+id/tab_contact"
+        icon="@mipmap/ease_conversation_selected"
+        title="好友"
+        />
+</tabs>
